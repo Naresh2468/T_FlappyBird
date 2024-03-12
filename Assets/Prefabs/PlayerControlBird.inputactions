@@ -1,0 +1,74 @@
+{
+    "name": "PlayerControlBird",
+    "maps": [
+        {
+            "name": "BirdMovement",
+            "id": "344d85be-39e6-405c-8ca1-2aa7a0021d05",
+            "actions": [
+                {
+                    "name": "Right_BM",
+                    "type": "Button",
+                    "id": "8a5f98f4-a95c-44f0-a8bf-4bdb503767d8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Leftt_BM",
+                    "type": "Button",
+                    "id": "eb2a47ca-7d01-4589-ac12-7e06b707e08e",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Jump_BM",
+                    "type": "Button",
+                    "id": "b0409e28-f688-4f04-9980-96dfd4b8c7ec",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "24705ad3-31fd-402c-9227-59f14c126916",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Right_BM",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "54ce1730-8657-4994-9d74-9cd2fe9fa483",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Leftt_BM",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2220e489-63db-4957-ba6a-4e05cdc72592",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump_BM",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

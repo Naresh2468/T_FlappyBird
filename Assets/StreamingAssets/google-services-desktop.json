@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "29420490223",
+    "project_id": "fly-eagle-unity-game",
+    "storage_bucket": "fly-eagle-unity-game.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29420490223:android:adac4dc7aa0d3fca42ba1a",
+        "android_client_info": {
+          "package_name": "com.FlyEagle.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29420490223-mi9hbbkiav9el4soimif5pjj5ijaol85.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4JYazC62hZ1gC2Fq286avRPYbK7sAitk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29420490223-mi9hbbkiav9el4soimif5pjj5ijaol85.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
